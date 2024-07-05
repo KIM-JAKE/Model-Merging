@@ -19,6 +19,8 @@ This repository is dedicated to studying and organizing information about Model 
 
 ## Model Merging techniques
 
+[Merging Models with Fisher-Weighted Averaging (NeurIPS 2022)](https://arxiv.org/abs/2111.09832)
+
 [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time (ICML 2022)](https://arxiv.org/abs/2203.05482)
 
 [Git Re-Basin: Merging Models modulo Permutation Symmetries (ICLR 2023)](https://arxiv.org/abs/2209.04836)
@@ -28,3 +30,5 @@ This repository is dedicated to studying and organizing information about Model 
 [TIES-Merging: Resolving Interference When Merging Models (NeurIPS 2023)](https://arxiv.org/abs/2306.01708)
 
 [Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch (ICML 2024)](https://arxiv.org/abs/2311.03099)
+
+[Model Merging by Uncertainty-Based Gradient Matching (ICLR 2024)](https://arxiv.org/abs/2310.12808)
