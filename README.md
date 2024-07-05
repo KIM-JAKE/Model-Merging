@@ -15,6 +15,8 @@ This repository is dedicated to studying and organizing information about Model 
 
 [Essentially No Barriers in Neural Network Energy Landscape (ICML 2018)](https://arxiv.org/abs/1803.00885)
 
+[Averaging Weights Leads to Wider Optima and Better Generalization (UAI 2018)](https://arxiv.org/abs/1803.05407)
+
 ## Model Merging techniques
 
 [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time (ICML 2022)](https://arxiv.org/abs/2203.05482)
