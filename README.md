@@ -29,6 +29,8 @@ This repository is dedicated to studying and organizing information about Model 
 
 [TIES-Merging: Resolving Interference When Merging Models (NeurIPS 2023)](https://arxiv.org/abs/2306.01708)
 
+[AdaMerging: Adaptive Model Merging for Multi-Task Learning (ICLR 2024)](https://arxiv.org/abs/2310.02575)
+
 [Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch (ICML 2024)](https://arxiv.org/abs/2311.03099)
 
 [Model Merging by Uncertainty-Based Gradient Matching (ICLR 2024)](https://arxiv.org/abs/2310.12808)
