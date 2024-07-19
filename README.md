@@ -3,7 +3,7 @@ This repository is dedicated to studying and organizing information about Model 
 
 # Model Merging Papers
 
-## Loss Landscapes & Mode Connectivitiy
+## Loss Landscapes & Mode Connectivity
 
 [Qualitatively characterizing neural network optimization problems (ICLR 2015)](https://arxiv.org/abs/1412.6544)
 
