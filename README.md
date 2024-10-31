@@ -17,7 +17,7 @@ This repository is for studying and organizing information about Model Merging.
 
 [Averaging Weights Leads to Wider Optima and Better Generalization (UAI 2018)](https://arxiv.org/abs/1803.05407)
 
-## Model Merging techniques
+## Model Merging Techniques
 
 [Merging Models with Fisher-Weighted Averaging (NeurIPS 2022)](https://arxiv.org/abs/2111.09832)
 
@@ -30,6 +30,12 @@ This repository is for studying and organizing information about Model Merging.
 [TIES-Merging: Resolving Interference When Merging Models (NeurIPS 2023)](https://arxiv.org/abs/2306.01708)
 
 [Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch (ICML 2024)](https://arxiv.org/abs/2311.03099)
+
+[AdaMerging: Adaptive Model Merging for Multi-Task Learning (ICML 2024)](https://arxiv.org/abs/2310.02575)
+
+[Representation Surgery for Multi-Task Model Merging (ICML 2024)](https://arxiv.org/abs/2402.02705)
+
+[EMR-Merging: Tuning-Free High-Performance Model Merging (NeurIPS 2024)](https://arxiv.org/abs/2405.17461)
 
 [Model Merging by Uncertainty-Based Gradient Matching (ICLR 2024)](https://arxiv.org/abs/2310.12808)
 
